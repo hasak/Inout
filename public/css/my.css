@@ -1,0 +1,57 @@
+html{
+    height: 100%;
+}
+body {
+    padding-top: 5rem;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.starter-template {
+    text-align: center;
+}
+.phut{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.nd{
+    display: none;
+}
+#mjdnica{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.ntb th{
+    border-top: none;
+}
+.mali{
+    font-size: small;
+}
+#datumun,.klick,.ptr{
+    cursor: pointer;
+}
+#grupabtn .btn{
+    margin-left: -5px;
+}
+.maliselect{
+    height: auto;
+    line-height: 1.2;
+}
+.ftlgr{
+    font-size: x-large;
+    line-height: 1.2;
+}
+.lastft {
+    margin-top: auto;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    font-size: 12px;
+    background-color: rgba(7, 7, 15, 0.99);
+    color: #727376;
+    border-top: 1px solid #295097;
+}
+.ukupnored{
+    border-top: 2px solid #555;
+    font-weight: bold;
+}
